@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOOC</string>
+    <string-array name="dropdown">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+</resources>
